@@ -1,2 +1,1 @@
-from tests.fixtures import * 
-
+from tests.fixtures import *
