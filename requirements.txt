@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+mysqlclient
+redis
+marshmallow
+hiredis
+ipython
+pylint
+pytest
+pytest-flask
+flask-shell-ipython
